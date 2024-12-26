@@ -1,0 +1,2 @@
+geometry_msgs/Point centerPt
+geometry_msgs/Point lidPt
